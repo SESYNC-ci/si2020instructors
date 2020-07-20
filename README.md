@@ -33,6 +33,7 @@ Hi, I'm [Kelly Hondula](https://khondula.github.io/)!
 I'm a member of the SESYNC data science team, and I'm also an aquatic ecologist interested in the intersection of hydrology and biogeochemistry. My dissertation is a combination of methane biogeochemistry, hydrology, and remote sensing. I've also done research about stream and river restoration, green infrastructure, and lots of other issues related to water resources. My favorite R package is probably [leaflet](https://rstudio.github.io/leaflet/). Besides making maps, I like skiing, going to the beach, cooking, and improving aquatic science information on Wikipedia through [WikiProjectL&O](https://twitter.com/WikiProjectLO). 
 
 =======
+
 Hi, I am Mary Glover.
 
 <img src="M_pic.jpg" height="50%" width="50%" alt="Mary and baby Vinny" />
