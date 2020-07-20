@@ -16,9 +16,8 @@ My goals for this week:
 
 Hi, I'm [Quentin Read](http://quentinread.com)!
 
-![Quentin and Vinny](qpic.jpg)
+<img src="qpic.jpg" height="50%" width="50%" alt="Quentin and Vinny" />
 
 I'm a member of the SESYNC data science team. I also do research on the environmental impacts of food waste, assessing different solutions for food waste reduction. I started out as an ecologist, studying the effects of climate change on plant communities, and large-scale biodiversity patterns in mammals, birds, and trees. This map shows my career trajectory --- and it is also my eBird map, showing the different US states where I've seen birds! Besides birding, I like playing Irish music, running, cycling, cooking, and crossword puzzles.
 
-![Quentin's map](qmap.PNG)
-
+<img src="qmap.PNG" height="50%" width="50%" alt="Q's map" />
