@@ -33,9 +33,10 @@ Hi, I'm [Kelly Hondula](https://khondula.github.io/)!
 I'm a member of the SESYNC data science team, and I'm also an aquatic ecologist interested in the intersection of hydrology and biogeochemistry. My dissertation is a combination of methane biogeochemistry, hydrology, and remote sensing. I've also done research about stream and river restoration, green infrastructure, and lots of other issues related to water resources. My favorite R package is probably [leaflet](https://rstudio.github.io/leaflet/). Besides making maps, I like skiing, going to the beach, cooking, and improving aquatic science information on Wikipedia through [WikiProjectL&O](https://twitter.com/WikiProjectLO). 
 
 =======
+Hi, I am Mary Glover.
 
 <img src="M_pic.jpg" height="50%" width="50%" alt="Mary and baby Vinny" />
 
-Hi, I am Mary Glover. I am excited to join the SESYNC cyber team for the week to help teach the summer institute. I am an instructor at Bowie State University in Bowie, MD, where I teach introductory biology. I enjoy being apart of students' first exposure to biology in college and incorporating research experiences into undergraduate lab classes. For my PhD, I studied the ecological and evolutionary forces that drive the formation of fly species that infest walnuts. 
+I am excited to join the SESYNC cyber team for the week to help teach the summer institute. I am an instructor at Bowie State University in Bowie, MD, where I teach introductory biology. I enjoy being a part of students' first exposure to biology in college and incorporating research experiences into undergraduate lab classes. For my PhD, I studied the ecological and evolutionary forces that drive the formation of fly species that infest walnuts. 
 
 
