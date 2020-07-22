@@ -7,7 +7,7 @@ Below are links to each team's 2020 SESYNC CSI repo on GitHub.
 - [Healthy Watersheds](https://github.com/lahm3d/sesync_healthy_watersheds)
 - [Socio-Environmental Narratives](https://github.com/melkimble/SENSummer2020)
 - [San Francisco Breeding Bird Observatory](https://github.com/Toucan15/CCFSalive)
-- [Water Conflict Africa](https://github.com/audreyculver/Water-Conflict-Africa)
+- [Water Conflict Africa]()
 - [Mariculture](https://github.com/barb3800/Mariculture_Team) 
 - [Governing Infrastructure](https://github.com/nickcuba/governing-infrastructure)
 - [Forest Diet](https://github.com/emvansant/FORESTDIET)
