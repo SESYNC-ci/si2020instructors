@@ -12,5 +12,5 @@ Below are links to each team's 2020 SESYNC CSI repo on GitHub.
 - [Governing Infrastructure](https://github.com/nickcuba/governing-infrastructure)
 - [Forest Diet](https://github.com/emvansant/FORESTDIET)
 - [Food-Energy-Water Typologies](https://github.com/mjbielic/SESYNC_Intro)
-- [Lake Victoria](https://github.com/SESYNC-ci/si2020instructors/blob/master/lake_victoria_intro.docx) *word doc, update later with repo link*
+- [Lake Victoria](https://github.com/harriok20/SesyncLakeVictoria) 
 
